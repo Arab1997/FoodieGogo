@@ -1,0 +1,2 @@
+rootProject.name='FoodieGogo'
+include ':app'
